@@ -83,13 +83,13 @@ void quickSort1(int arr[], int length) {
     printArray(arr, length);
 }
 
-void quickSort2(int arr[], int length) {
-    std::cout << "Quick sort using internal memory:\n";
-}
-
-void quickSort3(int arr[], int length) {
-    std::cout << "Quick sort using internal memory with two pivots:\n";
-}
+//void quickSort2(int arr[], int length) {
+//    std::cout << "Quick sort using internal memory:\n";
+//}
+//
+//void quickSort3(int arr[], int length) {
+//    std::cout << "Quick sort using internal memory with two pivots:\n";
+//}
 
 int main() {
     int length1 = 5;
